@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:background="#7f6d666d"
+    android:id="@+id/RelativeParent"
+    android:clickable="false"
+    >
+
+    <ImageView
+        android:id="@+id/imageID"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/color_black"
+        android:background="#ffffff"
+        />
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:id="@+id/linear1"
+    android:layout_toRightOf="@+id/imageID"
+    android:layout_toEndOf="@+id/imageID"
+    >
+
+    <TextView
+        android:id="@+id/miwokID"
+        android:layout_width="match_parent"
+        tools:text="Miwok"
+        android:gravity="bottom"
+        android:padding="8dp"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:layout_height="wrap_content"
+        android:textSize="20sp"
+        />
+
+    <TextView
+        android:id="@+id/englishID"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:text="English"
+        android:padding="8dp"
+        android:gravity="top"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:layout_below="@+id/miwokID"
+        />
+
+</RelativeLayout>
+
+    <ImageView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_action_play"
+        android:layout_gravity="center"
+        android:id="@+id/imageButton"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_centerInParent="true"
+        android:layout_marginRight="20dp"
+        android:layout_marginEnd="20dp"
+        android:contentDescription="@string/playButton"
+        />
+
+</RelativeLayout>

@@ -1,0 +1,166 @@
+<!-- Copyright (C) 2016 The Android Open Source Project
+
+     Licensed under the Apache License, Version 2.0 (the "License");
+     you may not use this file except in compliance with the License.
+     You may obtain a copy of the License at
+
+          http://www.apache.org/licenses/LICENSE-2.0
+
+     Unless required by applicable law or agreed to in writing, software
+     distributed under the License is distributed on an "AS IS" BASIS,
+     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+     See the License for the specific language governing permissions and
+     limitations under the License.
+-->
+<resources>
+    <!-- Title for the application. [CHAR LIMIT=12] -->
+    <string name="app_name">Miwok</string>
+
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="category_phrases">Phrases</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="category_colors">Colors</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="category_numbers">Numbers</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="category_family">Family Members</string>
+
+
+    <!-- Name for the Family Members -->
+
+    <!-- The Father in english-->
+    <string name="eFather">father</string>
+    <!-- in miwok -->
+    <string name="mFather">әpә</string>
+
+
+    <!-- The Mother-->
+    <!-- in english -->
+    <string name="eMother">Mother</string>
+    <!-- in miwok -->
+    <string name="mMother">әṭa</string>
+
+
+    <!-- The son-->
+    <!-- in english -->
+    <string name="eSon">Mother</string>
+    <!-- in miwok -->
+    <string name="mSon">angsi</string>
+
+
+    <!-- The Daughter-->
+    <!-- in english -->
+    <string name="eDaughter">Daughter</string>
+    <!-- in miwok -->
+    <string name="mDaughter">tune</string>
+
+
+    <!-- The Older brother-->
+    <!-- in english -->
+    <string name="eOBro">Older brother</string>
+    <!-- in miwok -->
+    <string name="mOBro">taachi</string>
+
+
+    <!-- The Younger brother-->
+    <!-- in english -->
+    <string name="eYBro">Younger brother</string>
+    <!-- in miwok -->
+    <string name="mYBro">chalitti</string>
+
+
+    <!-- The Older sister-->
+    <!-- in english -->
+    <string name="eOSis">Older sister</string>
+    <!-- in miwok -->
+    <string name="mOSis">teṭe</string>
+
+    <!-- The Younger sister-->
+    <!-- in english -->
+    <string name="eYSis">Younger sister</string>
+    <!-- in miwok -->
+    <string name="mYSis">kolliti</string>
+
+    <!-- The Grandmotherr-->
+    <!-- in english -->
+    <string name="eGMom">Grandmotherr</string>
+    <!-- in miwok -->
+    <string name="mGMom">ama</string>
+
+    <!-- The Grandfather-->
+    <!-- in english -->
+    <string name="eGPa">Grandfather</string>
+    <!-- in miwok -->
+    <string name="mGPa">paapa</string>
+
+
+    <!-- Name for the Numbers -->
+
+    <!-- The One-->
+    <!-- in english -->
+    <string name="eOne">One</string>
+    <!-- in miwok -->
+    <string name="mOne">lutti</string>
+
+    <!-- Two -->
+    <!-- in english -->
+    <string name="eTwo">Two</string>
+    <!-- in miwok -->
+    <string name="mTwo">otiiko</string>
+
+    <!-- The three-->
+    <!-- in english -->
+    <string name="eThree">three</string>
+    <!-- in miwok -->
+    <string name="mThree">tolookosu</string>
+
+    <!-- The Four-->
+    <!-- in english -->
+    <string name="eFour">Four</string>
+    <!-- in miwok -->
+    <string name="mFour">oyyisa</string>
+
+    <!-- The Five-->
+    <!-- in english -->
+    <string name="eFive">Five</string>
+    <!-- in miwok -->
+    <string name="mFive">massokka</string>
+
+    <!-- The six-->
+    <!-- in english -->
+    <string name="eSix">Six</string>
+    <!-- in miwok -->
+    <string name="mSix">temmokka</string>
+
+    <!-- The Seven-->
+    <!-- in english -->
+    <string name="eSeven">Seven</string>
+    <!-- in miwok -->
+    <string name="mSeven">kenekaku</string>
+
+    <!-- The Eight-->
+    <!-- in english -->
+    <string name="eEight">Eight</string>
+    <!-- in miwok -->
+    <string name="mEight">kawinta</string>
+
+    <!-- The Nine-->
+    <!-- in english -->
+    <string name="eNine">Nine</string>
+    <!-- in miwok -->
+    <string name="mNine">wo’e</string>
+
+    <!-- The Ten-->
+    <!-- in english -->
+    <string name="eTen">ten</string>
+    <!-- in miwok -->
+    <string name="mTen">na’aacha</string>
+
+
+    <!-- Content Description for play button -->
+    <string name="playButton">Play</string>
+
+</resources>
